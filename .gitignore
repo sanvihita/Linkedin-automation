@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env
+*.env
+
+# Streamlit
+.streamlit/
+
+# Logs & artifacts
+results.csv
+*.log
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
